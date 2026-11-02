@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Zhen Tian
 
-<!--
-**zhentian66668888-png/zhentian66668888-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Year-4 Data Science student at [City University of Hong Kong](https://www.cityu.edu.hk/), with interests spanning frontier mathematics and AI.
 
-Here are some ideas to get you started:
+#### Selected projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [**diabetes-health-indicators-analysis**](https://github.com/zhentian66668888-png/diabetes-health-indicators-analysis) — Health-indicator modeling with classification and regression pipelines
+- [**vehicle-price-prediction**](https://github.com/zhentian66668888-png/vehicle-price-prediction) — Used-car price analysis: EDA, regression, regularization, and diagnostics
+- [**kakeya-conjecture-report**](https://github.com/zhentian66668888-png/kakeya-conjecture-report) — Expository notes on Zahl’s Kakeya lecture (Besicovitch compression and the Convex Wolff Axiom)
+- [**ma2508-tutor-notes**](https://github.com/zhentian66668888-png/ma2508-tutor-notes) — Bilingual tutoring notes for multivariable calculus
+- [**ma1503-tutor-notes**](https://github.com/zhentian66668888-png/ma1503-tutor-notes) — Linear algebra tutoring: review slides, proof strategies, and revision plans
+- [**ma2510-tutor-notes**](https://github.com/zhentian66668888-png/ma2510-tutor-notes) — Probability and statistics tutoring with worked solutions
+
+#### Also exploring
+
+Harmonic analysis · Portfolio management
+
+📍 Based in Hong Kong
